@@ -1,0 +1,23 @@
+	Welcome to PUNJAB 'E' MESS
+	Jodhadih More Chas - 827013,
+     Bokaro(JH) Mob: 7033585340,7004803479
+
+************************************************************
+ Bill No. :  8508 		 Date : 01-05-20  20:56:58
+ Customer name :  md arshad ali
+ Father name :  md shafique alam
+ Room No. :  302
+------------------------------------------------------------------------
+Month 		Status 		Amount
+------------------------------------------------------------------------
+February		Paid		2400.0
+March		Paid		2200.0
+April		Paid		1800.0
+
+------------------------------------------------------------------------
+		Total Amount:		 6400.0
+
+
+
+
+				Signature
